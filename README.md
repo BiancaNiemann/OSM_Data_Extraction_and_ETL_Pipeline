@@ -1,4 +1,5 @@
 # OSM Data Extraction & ETL Pipeline
+### Done as part of my Webeet Internship
 
 **Objective:** Extract cultural points of interest from OpenStreetMap for Berlin and prepare them for database integration.
 
