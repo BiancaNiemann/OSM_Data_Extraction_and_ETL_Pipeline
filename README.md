@@ -1,4 +1,4 @@
-OSM Data Extraction & ETL Pipeline
+# OSM Data Extraction & ETL Pipeline
 
 **Objective:** Extract cultural points of interest from OpenStreetMap for Berlin and prepare them for database integration.
 
